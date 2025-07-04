@@ -1,0 +1,31 @@
+{
+  "name": "theme-preview",
+  "version": "1.0.0",
+  "description": "Génère une page HTML de prévisualisation d’un fichier theme.json WordPress, sans dépendance externe.",
+  "main": "bin/index.js",
+  "bin": {
+    "theme-preview": "./bin/index.js"
+  },
+  "scripts": {
+    "start": "node ./bin/index.js",
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ton-utilisateur/theme-preview.git"
+  },
+  "keywords": [
+    "wordpress",
+    "theme",
+    "preview",
+    "theme.json",
+    "cli"
+  ],
+  "author": "Ton Nom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ton-utilisateur/theme-preview/issues"
+  },
+  "homepage": "https://github.com/ton-utilisateur/theme-preview#readme",
+  "type": "commonjs"
+}
