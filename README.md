@@ -7,4 +7,4 @@
 ## 📦 Installation & utilisation rapide via npx
 
 ```bash
-npx github:<ton-utilisateur>/theme-preview ./chemin/vers/theme.json [chemin/sortie.html] [--open]
+npx github:maxpertici/theme-preview ./chemin/vers/theme.json [chemin/sortie.html] [--open]
